@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FifteenPuzzle.UI
 {
-    class Interface
+    class PuzzleUI
     {
     }
 }
