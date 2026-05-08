@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FifteenPuzzle.Generator
 {
-    class Generator
+    class PuzzleGenerator
     {
     }
 }
