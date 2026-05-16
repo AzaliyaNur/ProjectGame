@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FifteenPuzzle.Utils
 {
-    class Utils
+    class GameController
     {
     }
 }

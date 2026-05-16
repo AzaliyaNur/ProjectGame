@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FifteenPuzzle.Solver
 {
-    class Solver
+    class AStarSolver
     {
     }
 }
